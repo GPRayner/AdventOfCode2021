@@ -1,0 +1,1 @@
+export const part1 = (input: number[]) => input.filter((value, i) => value - input[i+1] < 0).length;

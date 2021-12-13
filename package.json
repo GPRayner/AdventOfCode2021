@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "@typescript-eslint/eslint-plugin": "^5.6.0",
+    "@typescript-eslint/parser": "^5.6.0",
+    "eslint": "^8.4.1",
+    "jest": "^27.4.4",
+    "prettier": "^2.5.1",
+    "ts-jest": "^27.1.1",
+    "typescript": "^4.5.3"
+  },
+  "name": "AdventOfCode2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GPRayner/AdventOfCode2021.git",
+  "author": "George Rayner <GPRayner@users.noreply.github.com>",
+  "license": "MIT"
+}

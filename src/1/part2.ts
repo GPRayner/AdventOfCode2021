@@ -1,0 +1,1 @@
+export const part2 = (input: number[]) => input.filter((value, i) => (value + input[i+1] + input[i+2]) / 3 - (input[i+1] + input[i+2] + input[i+3]) / 3 < 0).length;
